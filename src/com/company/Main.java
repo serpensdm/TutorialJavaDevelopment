@@ -7,5 +7,6 @@ public class Main {
         System.out.println(x);
         int y = 20;
         int yasd = 123;
+        short ячс = 123;
     }
 }
