@@ -7,7 +7,8 @@ public class Main {
     byte b = 123;
     int i = -123;
     String s = "хуй пизда и джигуржда";
-        System.out.println(a+b+i+s);
+    System.out.println(a+b+i+s);
+    //фывфыв
 
 
     }
