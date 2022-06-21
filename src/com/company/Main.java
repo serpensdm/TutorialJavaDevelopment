@@ -6,5 +6,6 @@ public class Main {
         int x = 10;
         System.out.println(x);
         int y = 20;
+        int yasd = 123;
     }
 }
